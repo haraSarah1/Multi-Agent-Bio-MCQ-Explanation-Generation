@@ -1,0 +1,10 @@
+
+每个文件的功能
+main:运行网页，多智能体关联交互
+message:将网页里面的内容拼成一条作为input_message给智能体
+utils_coze:国外版Coze的调用
+utils_coze_cn:国内版Coze的调用
+utils_azure:通过AzureAPI调用chatgpt4
+azure_prompt:智能体4和5的prompt
+
+
