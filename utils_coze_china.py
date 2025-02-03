@@ -1,7 +1,6 @@
 import requests
 import os
-# coze_token = os.getenv("COZE_TOKEN")
-coze_token_china = "pat_FwzLgGGZldN8k7WYtRGW6TZp0JFUg4yoSVOvPrikTyJAd4ETVXFo7LAwV6qfoj7E"
+coze_token_china = os.getenv("COZE_TOKEN_CHINA")
 
 
 # 创建一个会话，并获取会话id，后续所有对话都会加到会话里
